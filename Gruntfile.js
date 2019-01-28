@@ -71,7 +71,8 @@ module.exports = function (grunt) {
             addtag: {
                 options: {
                     tag: '<%= pkg.version %>',
-                    message: 'Version <%= pkg.version %>'
+                    message: 'Version <%= pkg.version %>',
+                    force: true
                 }
             }
         },
@@ -93,7 +94,8 @@ module.exports = function (grunt) {
                 options: {
                     tags: true,
                     remote: 'origin',
-                    branch: 'master'
+                    branch: 'master',
+                    force: true
                 }
             }
         },
