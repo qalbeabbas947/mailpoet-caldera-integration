@@ -3,7 +3,7 @@
  * Plugin Name: Caldera Forms - MailPoet
  * Plugin URI: https://calderaforms.com/
  * Description: Integrates Caldera Forms with MailPoet so that form submissions can result in new subscribers getting added to MailPoet lists
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Real Big Plugins
  * Author URI: https://realbigplugins.com/
  * Text Domain: mp_cal_addon
