@@ -1,0 +1,6 @@
+Plugin Name -- ConvertKit for Caldera FOrms
+Text domain -- mailpoet-caldera-integration
+Function prefix -- mailpoet_caldera
+Class prefix - n/a
+Root namespace -- n/a
+Filter Prefix -- mailpoet_caldera
